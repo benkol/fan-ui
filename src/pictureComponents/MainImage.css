@@ -1,0 +1,24 @@
+.container .main-image-container {
+    list-style-type: none;
+    padding: 0;
+    
+    width: calc(100% - 10px);
+    height: 60vh;
+    margin: 40px 5px 0 5px;
+
+    position: relative;
+}
+
+.container .main-image-container .main-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+
+}

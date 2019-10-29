@@ -1,0 +1,6 @@
+.folderNode>.button {
+    background-color: #b4b4b4;
+}
+.folderNode.open>.button {
+    background-color: #818181;
+}
