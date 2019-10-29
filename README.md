@@ -1,7 +1,9 @@
 # fan-ui
 Alma Laser's home exercise
 
-A home exercise I recieved from Alma Laser. The task's description was:
+Working demo: http://alma-fe.benkol.com/home
+
+**A home exercise I recieved from Alma Laser. The task's description was:**
 
 ## General instructions:
 - The project should be written as a single page application using ReactJS
@@ -125,5 +127,3 @@ data: {
 }
 }
 ```
-
-Working demo: http://alma-fe.benkol.com/home
